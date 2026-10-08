@@ -12,3 +12,5 @@ Playground for GitHub achievements
 - Milestone check 6 - upgraded tier achievement
 
 - Milestone check 7 - upgraded tier achievement
+
+- Milestone check 8 - upgraded tier achievement
