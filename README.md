@@ -6,3 +6,5 @@ Playground for GitHub achievements
 - Unlocking Pull Shark achievement (second merged PR)
 
 - Pair Extraordinaire co-author milestone
+
+- Milestone check 5 - upgraded tier achievement
