@@ -8,3 +8,5 @@ Playground for GitHub achievements
 - Pair Extraordinaire co-author milestone
 
 - Milestone check 5 - upgraded tier achievement
+
+- Milestone check 6 - upgraded tier achievement
