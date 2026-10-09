@@ -50,3 +50,5 @@ Playground for GitHub achievements
 - Milestone check 25 - Pair Extraordinaire with Debashish
 
 - Milestone check 26 - Pair Extraordinaire with Debashish
+
+- Milestone check 27 - Pair Extraordinaire with Debashish
