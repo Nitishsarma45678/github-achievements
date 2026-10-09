@@ -34,3 +34,5 @@ Playground for GitHub achievements
 - Milestone check 17 - upgraded tier achievement
 
 - Milestone check 18 - Pair milestone with Debashish
+
+- Milestone check 19 - Pair Extraordinaire with Debashish
